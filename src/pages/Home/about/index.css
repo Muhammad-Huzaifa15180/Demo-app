@@ -1,0 +1,55 @@
+.about h3{
+    color: #000;
+text-align: center;
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: 20px; /* 83.333% */
+
+}
+.about h1{
+    color: #000;
+text-align: center;
+font-family: Plus Jakarta Sans;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 31.25% */
+}
+.about h2{
+    color: #000;
+text-align: justify;
+font-family: Plus Jakarta Sans;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 33px; /* 103.125% */
+text-transform: capitalize;
+text-align: center;
+}
+.about p{
+    color: #000;
+text-align: justify;
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 133.333% */
+}
+section.about {
+    margin: 0% 4% 0 0;
+}
+.about-img{
+    width: 60%;
+}
+.about-content{
+    width: 40%;
+}
+.mission{
+    background-image: url('./images/Rectangle 26.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 260px;
+}

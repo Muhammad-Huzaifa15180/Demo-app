@@ -1,0 +1,18 @@
+.primary-button {
+  background-color: black;
+  color: #FFF;
+font-family: Plus Jakarta Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 133.333% */
+border-radius: 50px;
+border: 3px solid #FFF;
+padding: 8px 15px 8px 15px;
+margin: 0 0 0 1%;
+}
+
+.secondary-button {
+    color: #000;
+    background-color: green;
+  }
