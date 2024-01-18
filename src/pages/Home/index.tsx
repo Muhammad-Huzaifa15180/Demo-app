@@ -1,6 +1,7 @@
 import Header from "../../components/header";
 import AboutSection from "./about";
 import Banner from "./banner";
+import Objective from "./objective";
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
       <Header />
       <Banner/>
       <AboutSection/>
+      <Objective/>
     </div>
   );
 };
