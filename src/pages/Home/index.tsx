@@ -1,6 +1,7 @@
 import Header from "../../components/header";
 import AboutSection from "./about";
 import Banner from "./banner";
+import Featured from "./feature";
 import Objective from "./objective";
 
 
@@ -11,6 +12,7 @@ const Home = () => {
       <Banner/>
       <AboutSection/>
       <Objective/>
+      <Featured/>
     </div>
   );
 };
