@@ -1,0 +1,75 @@
+.col{
+    background: #55565A;
+}
+.col h3{
+    color: #FFF;
+font-family: Roboto;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: 0px;
+padding: 10% 0 0 6%;
+}
+.col h4{
+    color: #FFF;
+font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 0 0 0 6%;
+}
+.col h4 span{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px;
+}
+.col-content2{
+    background: #F5F4F4;
+    margin: 34px 0 0 0;
+    height: 350px;
+}
+.feature-content h2{
+    color: #000;
+text-align: center;
+font-family: "Plus Jakarta Sans";
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.feature-content p{
+    overflow: hidden;
+color: #000;
+text-align: center;
+text-overflow: ellipsis;
+font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.col-content2 p{
+    color: #000;
+text-align: justify;
+font-family: Roboto;
+font-size: 29px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 90%;
+    padding: 0 5% 0 5%;
+   
+}
+.flex-feature{
+    display: flex;
+    justify-content: space-between;
+}
+.flex2-feature{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
