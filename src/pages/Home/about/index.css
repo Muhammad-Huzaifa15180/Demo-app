@@ -6,6 +6,7 @@ font-size: 24px;
 font-style: normal;
 font-weight: 300;
 line-height: 20px; /* 83.333% */
+padding: 3% 0 0 0;
 
 }
 .about h1{
@@ -16,6 +17,7 @@ font-size: 64px;
 font-style: normal;
 font-weight: 600;
 line-height: 20px; /* 31.25% */
+padding: 0% 0 2% 0;
 }
 .about h2{
     color: #000;
@@ -37,9 +39,9 @@ font-style: normal;
 font-weight: 500;
 line-height: 32px; /* 133.333% */
 }
-section.about {
+/* section.about {
     margin: 0% 4% 0 0;
-}
+} */
 .about-img{
     width: 60%;
 }
@@ -52,4 +54,16 @@ section.about {
     background-repeat: no-repeat;
     background-size: cover;
     height: 260px;
+    margin: 5% 0 0% 0;
+}
+.mission h2{
+    color: #FFF;
+text-align: center;
+font-family: "Plus Jakarta Sans";
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 50% */
+text-align: left;
+    padding: 10% 0% 0% 8%;
 }
