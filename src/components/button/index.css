@@ -13,6 +13,7 @@ margin: 0 0 0 1%;
 }
 
 .secondary-button {
-    color: #000;
-    background-color: green;
+  border-radius: 40px;
+  background: #FFF;
+  padding: 12px 32px;
   }
