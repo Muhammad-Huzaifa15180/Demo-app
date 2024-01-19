@@ -3,6 +3,7 @@ import AboutSection from "./about";
 import Banner from "./banner";
 import Featured from "./feature";
 import Objective from "./objective";
+import Footer from "./footer";
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
       <AboutSection/>
       <Objective/>
       <Featured/>
+      <Footer/>
     </div>
   );
 };
