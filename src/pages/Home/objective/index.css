@@ -1,0 +1,60 @@
+.objective-content h2{
+    color: #000;
+text-align: center;
+font-family: "Plus Jakarta Sans";
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 33px; /* 103.125% */
+text-transform: capitalize;
+}
+.objective-content p{
+    color: #000;
+text-align: justify;
+font-family: "Plus Jakarta Sans";
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 133.333% */
+width: 95%;
+}
+.objective-content{
+    width: 45%;
+}
+.objective-img {
+    width: 55%;
+    padding: 8% 0 0 0;
+}
+.main-img img {
+    width: 100%;
+}
+.main-img {
+    /* width: 100%; */
+    padding: 5% 0 0 0;
+}
+.placeholder h2{
+    color: #FFF;
+text-align: center;
+font-family: "Plus Jakarta Sans";
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 0px;
+padding: 12% 0 0 0;
+}
+.placeholder p{
+    color: #FFF;
+font-family: "Plus Jakarta Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 130% */
+text-align: center;
+}
+.placeholder{
+    background-image: url("./images/Rectangle 39.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}

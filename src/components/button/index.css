@@ -13,6 +13,13 @@ margin: 0 0 0 1%;
 }
 
 .secondary-button {
-    color: #000;
-    background-color: green;
-  }
+  border-radius: 40px;
+  background: #FFF;
+  padding: 15px 35px;
+  border: 0px;
+}
+.secondary-button:hover{
+  background-color: black;
+  color: white;
+  transition: all 0.5s ease;
+}

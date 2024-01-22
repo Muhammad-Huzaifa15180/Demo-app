@@ -1,0 +1,118 @@
+footer {
+    background: #F6F6F6;
+}
+.navigation ul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: self-start;
+    /* width: 95%; */
+    padding: 0 0 0 47%;
+    
+}
+.company ul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: baseline;
+    width: 92%;
+}
+.support ul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: baseline;
+    padding: 0 0 0 21%;
+}
+.navigation ul li a{
+    color: #000;
+font-family: "Plus Jakarta Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.company ul li a{
+    color: #000;
+font-family: "Plus Jakarta Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.support ul li a{
+    color: #000;
+font-family: "Plus Jakarta Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.navigation h4 {
+    text-align: center;
+    padding: 0 0 0 25%;
+    color: #100;
+font-family: "Plus Jakarta Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px; /* 160% */
+}
+.company h4 {
+    padding: 0 0 0 21%;
+    color: #100;
+font-family: "Plus Jakarta Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px; /* 160% */
+}
+.support h4 {
+    text-align: center;
+    /* padding: 0 0 0 25%; */
+    margin: 0 0 0 -45%;
+    color: #100;
+font-family: "Plus Jakarta Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px; /* 160% */
+}
+.navigation {
+    padding: 7% 0 0 0;
+    width: 20%;
+}
+.company {
+    padding: 2% 0 0 0;
+    width: 16%;
+}
+.support {
+    width: 35%;
+    padding: 1% 0 0 0;
+}
+.footer-icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 21%;
+}
+.footer-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 98%;
+    padding: 0 0 1% 0;
+}
+.copyright {
+    padding: 3% 0 0 9%;
+}
+.copyright h4{
+    color: #000;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;}
+.copyright h4 span{
+    text-decoration: underline;
+}
