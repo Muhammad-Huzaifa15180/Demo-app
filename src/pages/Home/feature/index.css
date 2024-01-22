@@ -1,5 +1,6 @@
 .col{
     background: #55565A;
+    height: 225px;
 }
 .col h3{
     color: #FFF;
@@ -67,6 +68,12 @@ width: 90%;
 .flex-feature{
     display: flex;
     justify-content: space-between;
+    padding: 0 0 33% 0;
+}
+.flex3-feature{
+    display: flex;
+    justify-content: space-between;
+    padding: 33% 0 42% 0;
 }
 .flex2-feature{
     display: flex;
