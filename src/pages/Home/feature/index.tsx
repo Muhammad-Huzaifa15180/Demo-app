@@ -45,7 +45,7 @@ const Featured = () => {
 
                 
             </div>
-            <div className="flex-feature">
+            <div className="flex3-feature">
                 <div className="col-content">
                     <div className="col">
                         <h3>Jack Sheard</h3>
